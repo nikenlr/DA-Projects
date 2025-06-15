@@ -1,6 +1,6 @@
-# 📊 Data Analysis Projects (SQL Server)
+# 📊 Data Analysis Projects (SQL)
 
-This repository contains SQL scripts and datasets for analyzing real-world data using **SQL Server Management Studio (SSMS)**. It includes two main projects: pizza sales and student academic performance.
+This repository contains SQL scripts and datasets for analyzing data using **SQL Server Management Studio (SSMS)**. It includes two main projects: pizza sales and student academic performance.
 
 ---
 
